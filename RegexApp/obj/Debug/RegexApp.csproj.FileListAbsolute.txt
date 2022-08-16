@@ -1,0 +1,15 @@
+C:\Users\D.Putrya\source\repos\Beetroot\RegexApp\bin\Debug\RegexApp.exe.config
+C:\Users\D.Putrya\source\repos\Beetroot\RegexApp\bin\Debug\RegexApp.exe
+C:\Users\D.Putrya\source\repos\Beetroot\RegexApp\bin\Debug\RegexApp.pdb
+C:\Users\D.Putrya\source\repos\Beetroot\RegexApp\obj\Debug\RegexApp.csprojAssemblyReference.cache
+C:\Users\D.Putrya\source\repos\Beetroot\RegexApp\obj\Debug\RegexApp.csproj.CoreCompileInputs.cache
+C:\Users\D.Putrya\source\repos\Beetroot\RegexApp\obj\Debug\RegexApp.exe
+C:\Users\D.Putrya\source\repos\Beetroot\RegexApp\obj\Debug\RegexApp.pdb
+D:\Beetroot\Lesson3\Lesson9\RegexApp\bin\Debug\RegexApp.exe.config
+D:\Beetroot\Lesson3\Lesson9\RegexApp\bin\Debug\RegexApp.exe
+D:\Beetroot\Lesson3\Lesson9\RegexApp\bin\Debug\RegexApp.pdb
+D:\Beetroot\Lesson3\Lesson9\RegexApp\obj\Debug\RegexApp.csproj.AssemblyReference.cache
+D:\Beetroot\Lesson3\Lesson9\RegexApp\obj\Debug\RegexApp.csproj.SuggestedBindingRedirects.cache
+D:\Beetroot\Lesson3\Lesson9\RegexApp\obj\Debug\RegexApp.csproj.CoreCompileInputs.cache
+D:\Beetroot\Lesson3\Lesson9\RegexApp\obj\Debug\RegexApp.exe
+D:\Beetroot\Lesson3\Lesson9\RegexApp\obj\Debug\RegexApp.pdb
